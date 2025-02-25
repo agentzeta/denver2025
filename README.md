@@ -1,2 +1,7 @@
 # denver2025
 Talented : A recruiter dashboard for talented candidates powered by AI features, video authentication, video interviews and online assessment, ENS attestation, and token minting and on-chain sending functionalities 
+We have built a talent recruitment platform with multiple innovative features for both recruiters and job-seekers: 
+Recruiters will have features for Creation of Job listing, express desired skills and characteristics to enable LLM/ Agent to assess and review candidates, publication of jobs to a publicly shareable url.
+Teams have ability to mint/create ERC20 tokens for new company ( glittr/rootstock),send tokens to applicants (rootstock),AI features to review, compare,score candidates. 
+Applicants have features for connecting wallet (reown), user authentication by asking to record a 1 min intro video in browser and upload, ethereum attestation for successful submission of application,time of submission &  time reviewed by assessor, AI features to build resumes. 
+In future versions, we would also add an AI agent to conduct a live video interview powered by Claude 3.7 sonnet and elevenlabs text to speech feature, and have the Ai agent review and assign a weighted score to candidates. We will add push notifications (maybe EPNS) to inform the candidate about the application status and progress, and a webchat functionality for recruiters to communicate with candidates directly on this platform. We will store all data on filecoin/IPFS.     
