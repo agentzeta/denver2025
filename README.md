@@ -6,5 +6,5 @@ Teams have ability to mint/create ERC20 tokens for new company ( rootstock),send
 Applicants have features for connecting wallet (reown), database enabled by smart contract to store time of submission &  time reviewed by assessor, and can in future access AI features to build resumes from scratch. 
 We attempted Ethereum attestation service with schema for submitted data, but ran into some issues. 
 In future versions, we would also add for authentication, a self-recorded in-browser video and upload function, followed by an AI agent to conduct a live video interview powered by Claude 3.7 sonnet and elevenlabs text to speech feature, and have the Ai agent review and assign a weighted score to candidates. We will add push notifications (maybe EPNS) to inform the candidate about the application status and progress, and a webchat functionality for recruiters to communicate with candidates directly on this platform. We will store all data on filecoin/IPFS. We will also integrate Ethereum attestation service to record the successful submission, time of submission, time reviewed, and the result (accepted/rejected).   
-Tools used : remix, Solidity, Typescript
+Tools used : remix, Solidity, Typescript.
 Back-end technologies : Nodejs, Rootstock, Glittr.
